@@ -9,3 +9,4 @@ Tool based on pymkv to automate fetching of audio track in a preferred language 
 - clean up file
   - removing other audio/subs tracks (possibility to keep a set of defined languages)
   - set audio tracks language if undefined (if only one in file and native language is provided)
+- add option to only export/extract audio tracks in a Jellyfin compatible format 
