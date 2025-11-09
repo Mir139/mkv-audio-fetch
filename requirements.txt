@@ -1,2 +1,2 @@
 pymkv2
-python-ffmpeg
+ffmpeg-python
